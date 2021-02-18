@@ -1,0 +1,13 @@
+*{
+padding : 0;
+margin : 0;
+}
+
+html{
+    height: 100%
+}
+body {
+    height: 100%;
+    background-image: linear-gradient(rgb(149, 204, 149),teal);
+}
+
