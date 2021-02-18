@@ -11,3 +11,15 @@ body {
     background-image: linear-gradient(rgb(149, 204, 149),teal);
 }
 
+.header-box{
+    
+}
+
+.header{
+    padding: 60px;
+    border-width: 5px;
+    text-align: center;
+    color:seashell;
+    font-size:15;
+}
+
