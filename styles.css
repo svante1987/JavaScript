@@ -81,7 +81,7 @@ section {
     max-height: 4in;
 
     padding: 0.1in;
-    box-shadow: 5px 10px 8px #888888;
+    box-shadow: 5px 10px 8px rgb(51, 77, 165);
 }
 
 footer {
