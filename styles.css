@@ -31,3 +31,15 @@ height: auto;
     max-width: 100%;
     height:auto
 }
+ 
+.flx-row {
+    display: flex;
+    justify-content:space-evenly;
+}
+
+header {
+    background-image: linear-gradient(rgb(34, 99, 238),rgb(23, 60, 107));
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 2px;
+}
