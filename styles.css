@@ -14,9 +14,7 @@ body {
 
 header {
     background-image: linear-gradient(rgb(34, 99, 238),rgb(23, 60, 107));
-    border-style: solid;
-    border-color: whitesmoke;
-    border-width: 2px;
+    border: 2px solid rgb(100, 184, 212);
 }
 
 .sticky {
@@ -28,6 +26,9 @@ header {
 .header-box{
 width: 325px;
 height: auto;
+border: 2px solid rgb(100, 184, 212);
+border-radius: 80%;
+padding: 10px;
 }
 
 .headerStyle{
@@ -62,7 +63,8 @@ input{
     height: 60px;
 }
 input[type=number] {
-    border: 2px solid lightblue;
+    border: 2px solid rgb(100, 184, 212);
     border-radius: 4px;
     font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
