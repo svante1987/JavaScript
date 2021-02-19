@@ -49,3 +49,20 @@ height: auto;
     display: flex;
     justify-content:space-evenly;
 }
+
+.flx-col {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+}
+
+input{
+    width:60px;
+    height: 60px;
+}
+input[type=number] {
+    border: 2px solid lightblue;
+    border-radius: 4px;
+    font-size: 30px;
+  }
