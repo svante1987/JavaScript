@@ -13,28 +13,21 @@ body {
 }
 
 .header-box{
-
+width: 325px;
+height: auto;
 }
 
 .header{
-    padding: 60px;
-    border-width: 5px;
+    padding: 50px;
     text-align: center;
     color:seashell;
-    font-size:15;
-    background-image: 
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
 }
 
-
-div#wrapperHeader {
-    width:100%;
-    text-align:center;
-   }
-   
-   
-   
-   div#wrapperHeader div#header img {
-    width:50%; 
-    height:50%; 
-    margin: auto;
-   }
+.molnBild{
+    max-width: 100%;
+    height:auto
+}
