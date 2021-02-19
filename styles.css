@@ -12,12 +12,25 @@ body {
     background-image: linear-gradient(rgb(34, 99, 238),teal);
 }
 
+header {
+    background-image: linear-gradient(rgb(34, 99, 238),rgb(23, 60, 107));
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 2px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+
 .header-box{
 width: 325px;
 height: auto;
 }
 
-.header{
+.headerStyle{
     padding: 50px;
     text-align: center;
     color:seashell;
@@ -35,11 +48,4 @@ height: auto;
 .flx-row {
     display: flex;
     justify-content:space-evenly;
-}
-
-header {
-    background-image: linear-gradient(rgb(34, 99, 238),rgb(23, 60, 107));
-    border-style: solid;
-    border-color: whitesmoke;
-    border-width: 2px;
 }
